@@ -55,3 +55,9 @@ GO
 - Ensure that you have added all the necessary procedures and set up the database for the project to function properly.
 - If you want to modify the database or add new procedures, you can make the necessary changes by reviewing the **'procedures.sql'** file.
 
+
+### Database Diagram
+
+![TourCompanyDatabaseDiagarm](https://github.com/tahsinsylmz/TourCompanyProject/assets/94257932/51d21f9f-a609-4b1b-8c94-0cff6355b06b)
+
+
